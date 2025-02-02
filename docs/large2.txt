@@ -1,0 +1,176 @@
+
+All
+Images
+Videos
+Shopping
+Web
+News
+Books
+More
+Tools
+AI Overview
+Learn more
+In JavaScript, the "global object" is a special object that contains variables and functions accessible from anywhere in your code, and in a web browser environment, this global object is specifically called the "window object" - meaning that when you access a global variable in a browser, you're essentially accessing a property of the window object;. 
+Key points about global object and window object:
+Function: The global object provides a way to access variables and functions globally throughout your JavaScript code. 
+Browser specific: In a web browser, the global object is referred to as the "window object". 
+Accessing properties: To access a global variable in a browser, you can use the syntax window.variableName. 
+Example:
+Code
+
+    var myGlobalVariable = "Hello"; // This is a global variable, essentially a property of the window object
+
+    console.log(window.myGlobalVariable); // Outputs: "Hello" [1, 2, 5]
+Global object - The Modern JavaScript Tutorial
+1 Jul 2022 — The global object provides variables and functions that are available anywhere. By default, those that are built into th...
+
+The Modern JavaScript Tutorial
+What is the global object in JavaScript? A practical guide for ...
+14 Mar 2024 — The global object in JavaScript is available to all parts of your code. ... In the browser, the global object is access...
+
+Contentful
+Understanding the JavaScript Window Object - SitePoint
+14 Jun 2022 — Every JavaScript environment has a global object. Any variables that are created in the global scope are actually prope...
+
+SitePoint
+Show all
+Generative AI is experimental.
+
+Global object - MDN Web Docs Glossary - Mozilla
+
+MDN Web Docs
+https://developer.mozilla.org › en-US › Global_object
+8 Jul 2024 — The global object in JavaScript is an object which represents the global scope.
+People also ask
+What is the difference between window object and global object?
+What is a global object?
+What is a window object?
+What is the difference between a global object and a local object?
+Feedback
+
+What is the global object in JavaScript? A practical guide ...
+
+Contentful
+https://www.contentful.com › blog › the-global-object-i...
+14 Mar 2024 — Web browser Window global objects contain variables for the cache, the console, and window geometry, as well as functions for things like ...
+‎What is the global object in... · ‎When you should (and...
+
+Global object
+
+The Modern JavaScript Tutorial
+https://javascript.info › global-object
+1 Jul 2022 — The global object provides variables and functions that are available anywhere. By default, those that are built into the language or the environment.
+
+Understanding the JavaScript Window Object
+
+SitePoint
+https://www.sitepoint.com › JavaScript
+14 Jun 2022 — In a browser environment the global object is the window object, which represents the browser window that contains a web page.
+‎Key Takeaways · ‎The Browser Object Model · ‎Browser Information
+Discussions and forums
+Global "window" object - javascript
+
+Stack Overflow · 
+1 answer
+ · 
+3 years ago
+In the early days of Javascript, there was one master global symbol and everything that was available in the global scope whether it was part of the ...  
+More
+Top answer · 3 years ago
+In Javascript, Window is the global object. It is well known, but what does ...
+
+Quora · 
+5 answers
+ · 
+7 years ago
+windows - What exactly is a "global object"?
+
+Super User · 
+2 answers
+ · 
+12 years ago
+See more
+
+What's the difference between a global variable and a ' ...
+
+Stack Overflow
+https://stackoverflow.com › questions › whats-the-differ...
+In the browser, the global object is the same as the window object but in other environments (e.g., Node.js, or perhaps running in a web view of ...
+5 answers
+ 
+·
+ 
+Top answer: 
+No difference. They both have the same effect (In the browser, where window is the global context1). ...
+Global "window" object - javascript - Stack Overflow
+20 Nov 2021
+What are global variables and 'window' variables in JavaScript?
+14 Oct 2016
+JavaScript global object vs window object - Stack Overflow
+1 Sept 2017
+What are the types of global objects `window` and `document`?
+29 Apr 2019
+More results from stackoverflow.com
+
+JavaScript - Global Object
+
+TutorialsPoint
+https://www.tutorialspoint.com › javascript › javascript_...
+The JavaScript global object allows you to access the variables, functions, objects, etc., defined in the global scope and available everywhere in the code.
+Videos
+
+10:03
+06: LECTURE - Global Objects "window" and "global ...
+YouTube · Bogdan Stashchuk
+30 Jan 2019
+7 key moments in this video
+
+2:22
+Window VS Global Object in Node JS | Node JS Tutorial
+YouTube · Rapid Tutor
+13 May 2024
+
+21:50
+60. JavaScript Global Object - window, globalThis
+YouTube · Miss Xing (邢老师)
+18 Jul 2022
+
+7 key moments in this video
+View all
+
+JavaScript Window - The Browser Object Model
+
+W3Schools
+https://www.w3schools.com › js_window
+All global JavaScript objects, functions, and variables automatically become members of the window object. Global variables are properties of the window object.
+
+Global Objects in JavaScript
+
+Naukri.com
+https://www.naukri.com › ... › JavaScript › Objects
+27 Mar 2024 — The global object in Javascript contains variables and functions that are accessible from anywhere. These are incorporated into the language or environment by ...
+People also search for
+What are global object and window object in java
+What are global object and window object javascript
+What are global object and window object example
+What is global object in Node JS
+Global object in JavaScript example
+JavaScript global object
+Global object in JavaScript W3Schools
+What is window object in JavaScript
+1	
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+Results are not personalised
+India
+Coimbatore, Tamil Nadu - From your IP address
+ - Update location
+HelpSend feedbackPrivacyTerms
